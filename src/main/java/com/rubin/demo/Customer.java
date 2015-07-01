@@ -5,6 +5,9 @@ import javax.xml.bind.annotation.XmlAttribute;
 import javax.xml.bind.annotation.XmlRootElement;
 import java.io.Serializable;
 
+/**
+ * xxxx
+ */
 @XmlRootElement
 public class Customer implements Serializable {
 
